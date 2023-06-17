@@ -2,14 +2,10 @@
 
 I am Diego Moicano (a.k.a hihackthis), and I work with information security (Ethical Hacking). :sunglasses:
 
-<--
-- 🔭 I’m currently working on a shell script
-- 🌱 I’m currently learning ev
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
 
+![hihackthis's GitHub stats](https://github-readme-stats.vercel.app/api?username=hihackthis&show_icons=true&theme=chartreuse-dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hihackthis&layout=donut)](https://github.com/hihackthis/github-readme-stats)
+
+##
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hihackthis&repo=)](https://github.com/hihackthis/github-readme-stats)
