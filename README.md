@@ -25,10 +25,10 @@ I am Diego Moicano (a.k.a hihackthis), and I work with information security (Eth
 <div align="center">
 
 <a href="https://twitter.com/hihackthis">
-  <img alt="hihackthis | Twitter" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
+  <img alt="hihackthis | Twitter" width="50px" src="https://github.com/hihackthis/hihackthis/blob/main/image/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/diego-gon%C3%A7alves-09536b24/">
-  <img alt="diego | LinkedIn" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  <img alt="diego | LinkedIn" width="50px" src="https://github.com/hihackthis/hihackthis/blob/main/image/linkedin.svg" />
 </a>
 </div>
 
@@ -36,6 +36,6 @@ I am Diego Moicano (a.k.a hihackthis), and I work with information security (Eth
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" style="width:100px;height:100px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain-wordmark.svg" style="width:100px;height:100px;"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="width:100px;height:100px;"/>
+<img src="https://github.com/hihackthis/hihackthis/blob/main/image/bash.svg" style="width:100px;height:100px;"/> <img src="https://github.com/hihackthis/hihackthis/blob/main/image/python.svg" style="width:100px;height:100px;"/> <img src="https://github.com/hihackthis/hihackthis/blob/main/image/linux.svg" style="width:100px;height:100px;"/>
 
 </div>
