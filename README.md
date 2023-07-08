@@ -1,3 +1,5 @@
+[![](https://visitcount.itsvg.in/api?id=hihackthis&label=Punch%20the%20clock&color=0&icon=4&pretty=true)](https://visitcount.itsvg.in)
+
 ### Hi there 👋
 
 I am Diego Moicano (a.k.a hihackthis), and I work with information security (Ethical Hacking). :sunglasses:
