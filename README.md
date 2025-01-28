@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-I am Diego Moicano (a.k.a hihackthis), and I work with information security (Ethical Hacking). :sunglasses:
+I am Diego Moicano (a.k.a hihackthis), working with information security (Ethical Hacking). :sunglasses:
 
 ##
 
