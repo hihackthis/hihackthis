@@ -29,7 +29,7 @@ I am Diego Moicano (a.k.a hihackthis), working with information security (Ethica
 <a href="https://twitter.com/hihackthis">
   <img alt="hihackthis | Twitter" width="50px" src="https://github.com/hihackthis/hihackthis/blob/main/image/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/diego-gon%C3%A7alves-09536b24/?locale=en_US">
+<a href="https://www.linkedin.com/in/diego-moicano/?locale=en_US">
   <img alt="diego | LinkedIn" width="50px" src="https://github.com/hihackthis/hihackthis/blob/main/image/linkedin.svg" />
 </a>
 </div>
