@@ -16,6 +16,14 @@ I am Diego Moicano (a.k.a hihackthis), working with information security (Ethica
 
 <div align="center">
 
+[![hihackthis's GitHub stats](https://github-stats-extended.vercel.app/api?username=hihackthis&repo=burstPopUp&layout=compact&theme=dracula&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
+
+</div>
+
+##
+
+<div align="center">
+
 <a href="https://twitter.com/hihackthis">
   <img alt="hihackthis | Twitter" width="50px" src="https://github.com/hihackthis/hihackthis/blob/main/image/twitter.svg" />
 </a>
