@@ -2,21 +2,13 @@
 
 ### Hi there 👋
 
-I am Diego Moicano (a.k.a hihackthis), working with information security (Ethical Hacking). :sunglasses:
+I am Diego Moicano (a.k.a hihackthis), working in information security (Ethical Hacking). :sunglasses:
 
 ##
 
 <div align="center">
 
 [![hihackthis's GitHub stats](https://github-stats-extended.vercel.app/api?username=hihackthis)](https://github.com/stats-organization/github-stats-extended)
-
-</div>
-
-##
-
-<div align="center">
-
-[![hihackthis's GitHub stats](https://github-stats-extended.vercel.app/api?username=hihackthis&repo=burstPopUp&layout=compact&theme=dracula&hide_border=true)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
