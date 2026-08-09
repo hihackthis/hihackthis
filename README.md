@@ -8,8 +8,7 @@ I am Diego Moicano (a.k.a hihackthis), working with information security (Ethica
 
 <div>
 
-| [![hihackthis's GitHub stats](https://github-stats-extended.vercel.app/api?username=hihackthis)](https://github.com/stats-organization/github-stats-extended)|
-| ------------- | ------------- |
+[![hihackthis's GitHub stats](https://github-stats-extended.vercel.app/api?username=hihackthis)](https://github.com/stats-organization/github-stats-extended)
 
 </div>
 
